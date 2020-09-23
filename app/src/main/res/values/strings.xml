@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">PolyGate</string>
+    <string name="Home_text">Welcome to your PolyGate App</string>
+    <string name="connect">Connect to your gate</string>
+    <string name="main_txt">Control your gate with these buttons</string>
+    <string name="closing">Automatic closing</string>
+    <string name="description_close">close the gate if manual mode</string>
+    <string name="description_alarm">Ring the alarm</string>
+    <string name="description_gyro">Light gyro</string>
+    <string name="description_car">Open 100% for car</string>
+    <string name="description_pedestrian">Open 25% for pedestrian</string>
+    <string name="AA">Appareils appairés</string>
+    <string name="AD">Appareils disponibles</string>
+    <string name="Can">Annuler</string>
+    <string name="NC">Non Connecté</string>
+    <string name="Co">Connected to your personnal gate</string>
+    <string name="Deco">Disconnect</string>
+    <string name="action_settings">Settings</string>
+    <string name="paired_devices">Display Paired Devices</string>
+
+</resources>
